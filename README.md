@@ -2,7 +2,7 @@
 
 A practical workbook for learning Git & GitHub by building a small quotes page.
 
-[![Git Bash Commands on Gist](https://img.shields.io/badge/Read%20the%20Workbook-Gist-2ea44f?style=for-the-badge&logo=github)](<script src="https://gist.github.com/hello-chaithra/18510575ac16d47ca5e63e5064834801.js"></script>)
+[![Git Bash Commands on Gist](https://img.shields.io/badge/Read%20the%20Workbook-Gist-2ea44f?style=for-the-badge&logo=github)]("https://gist.github.com/hello-chaithra/18510575ac16d47ca5e63e5064834801.js")
 
 ## What I learned
 - **The core workflow:** `init`, `add`, `commit`, `diff`, and `log`, and why staging and committing are separate steps.
